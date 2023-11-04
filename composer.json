@@ -5,7 +5,7 @@
     "require": {
         "laravel/laravel": "^10.2"
     },
-    "license": "MIT,",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Alihan0\\Iyzilaravel\\": "src/"
