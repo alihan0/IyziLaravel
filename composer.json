@@ -3,7 +3,6 @@
     "description": "Iyzico Online Payment System for Laravel 10",
     "type": "package",
     "require": {
-        "laravel/laravel": "^10.2"
     },
     "license": "MIT",
     "autoload": {
